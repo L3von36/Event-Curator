@@ -13,8 +13,8 @@ const images = [
   { id: 7, src: "/images/gallery-birthday-1.png", category: "Birthdays", alt: "Birthday celebration", aspect: "aspect-[4/3]" },
   { id: 8, src: "/images/gallery-corporate-2.png", category: "Corporate", alt: "Corporate stage", aspect: "aspect-[16/9]" },
   { id: 9, src: "/images/gallery-birthday-2.png", category: "Birthdays", alt: "Birthday table", aspect: "aspect-[4/3]" },
-  { id: 10, src: "/images/gallery-newyear-2.png", category: "New Year", alt: "New Year feast", aspect: "aspect-square" },
-  { id: 11, src: "/images/gallery-wedding-3.png", category: "Weddings", alt: "Wedding details", aspect: "aspect-[16/9]" },
+  { id: 10, src: "/images/gallery-traditional-1.png", category: "New Year", alt: "Traditional ceremony", aspect: "aspect-square" },
+  { id: 11, src: "/images/gallery-wedding-1.png", category: "Weddings", alt: "Wedding ceremony details", aspect: "aspect-[16/9]" },
 ];
 
 export default function Gallery() {

@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import { Link } from "wouter";
 import { useTheme } from "@/components/theme-provider";
 import { Menu, X, Moon, Sun } from "lucide-react";
 const logoPath = "/logo.png";
