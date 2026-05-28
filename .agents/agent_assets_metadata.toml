@@ -1,0 +1,62 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "ZGzshEZ4iYEXgIIQclccw"
+uri = "file://artifacts/enkutatash-event/public/images/gallery-wedding-1.png"
+type = "image"
+title = "Ethiopian wedding hall setup"
+
+[[generated]]
+id = "vagAY7572xY6RgoUXPQH7"
+uri = "file://artifacts/enkutatash-event/public/images/gallery-traditional-1.png"
+type = "image"
+title = "Ethiopian traditional coffee ceremony"
+
+[[generated]]
+id = "rnSGrXZDhWmAD_l24fIVn"
+uri = "file://artifacts/enkutatash-event/public/images/gallery-newyear-1.png"
+type = "image"
+title = "New Year golden celebration"
+
+[[generated]]
+id = "4MNDMT9eAqmjV9L5WKi7v"
+uri = "file://artifacts/enkutatash-event/public/images/gallery-corporate-1.png"
+type = "image"
+title = "Corporate gala luxury setup"
+
+[[generated]]
+id = "9WhhxfZanQYeTlnqOAoKq"
+uri = "file://artifacts/enkutatash-event/public/images/gallery-detail-1.png"
+type = "image"
+title = "Luxury event floral centerpiece"
+
+[[generated]]
+id = "QvJqm7iXpG121gbvF-84i"
+uri = "file://artifacts/enkutatash-event/public/images/gallery-wedding-2.png"
+type = "image"
+title = "Ethiopian wedding couple silhouette"
+
+[[generated]]
+id = "AWYJQQv1twb5csvnvxJlY"
+uri = "file://artifacts/enkutatash-event/public/images/gallery-birthday-1.png"
+type = "image"
+title = "Birthday celebration setup"
+
+[[generated]]
+id = "1gwUYCsUV9zB3pB54_dDE"
+uri = "file://artifacts/enkutatash-event/public/images/hero-bg.png"
+type = "image"
+title = "Hero background texture"
+
+[[generated]]
+id = "2u_cdU4OaEjfASspCtNcr"
+uri = "file://artifacts/enkutatash-event/public/images/gallery-corporate-2.png"
+type = "image"
+title = "Corporate event stage setup"
+
+[[generated]]
+id = "BPtUpYIak8_GQnRlLwaUk"
+uri = "file://artifacts/enkutatash-event/public/images/gallery-birthday-2.png"
+type = "image"
+title = "Luxury birthday table setting"

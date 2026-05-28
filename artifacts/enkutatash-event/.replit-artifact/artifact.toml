@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Enkutatash Event"
+version = "1.0.0"
+id = "artifacts/enkutatash-event"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 8099
+
+[services.env]
+PORT = "8099"
+BASE_PATH = "/"
+
+[services.development]
+run = "node serve.mjs"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/enkutatash-event", "run", "build" ]
+publicDir = "artifacts/enkutatash-event/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"

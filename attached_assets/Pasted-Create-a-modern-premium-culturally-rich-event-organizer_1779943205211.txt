@@ -1,0 +1,159 @@
+Create a modern, premium, culturally rich event organizer website for a brand called Enkutatash Event.
+
+The business specializes in:
+
+Ethiopian New Year celebrations
+Weddings
+Cultural events
+Corporate events
+Birthday parties
+Concerts
+Decorations
+Event planning and management
+
+The word “Enkutatash” represents the Ethiopian New Year holiday, so the design should reflect:
+
+Celebration
+Ethiopian culture
+Luxury
+Warm hospitality
+Joy and elegance
+Branding & Theme
+
+Use the uploaded logo as the primary inspiration.
+
+Main brand color:
+
+Golden yellow inspired by the flower in the logo
+Accent colors: white, black, soft gold, light cream
+
+Design style:
+
+Elegant
+Cinematic
+Premium
+Modern African luxury
+Smooth animations
+Beautiful gradients
+Glassmorphism effects
+Large hero sections
+Responsive mobile-first design
+
+The entire website should feel like:
+“Luxury Ethiopian celebration meets modern technology.”
+
+Homepage Requirements
+Hero Section
+Full-screen hero
+Animated yellow flower particles
+Bold headline:
+“Celebrate Every Moment with Enkutatash Event”
+Subheadline:
+“Premium Ethiopian Event Planning & Experiences”
+CTA buttons:
+Book an Event
+View Gallery
+
+Add subtle Ethiopian-inspired decorative patterns in the background.
+
+Sections
+1. About Us
+
+Tell the story of Enkutatash and Ethiopian celebration culture.
+
+2. Services
+
+Create premium service cards for:
+
+Weddings
+Ethiopian New Year Events
+Corporate Events
+Birthday Celebrations
+Traditional Ceremonies
+Decoration & Catering
+
+Each card should have:
+
+Hover animation
+Elegant icons
+Modern shadows
+3. Event Gallery
+
+Create a Pinterest-style gallery with:
+
+Large event photos
+Hover effects
+Lightbox preview
+Category filters
+4. Booking System
+
+Include:
+
+Event inquiry form
+Date picker
+Budget selector
+Guest count
+Event type dropdown
+5. Testimonials
+
+Luxury testimonial carousel with client reviews.
+
+6. Packages & Pricing
+
+Modern pricing cards with:
+
+Gold highlight for premium package
+Smooth hover animations
+7. Team Section
+
+Show elegant organizer profiles.
+
+8. Contact Section
+
+Include:
+
+Google Maps integration
+WhatsApp button
+Social media links
+Contact form
+Technical Requirements
+Use React + Tailwind CSS
+Dark/light mode toggle
+Smooth scrolling
+Framer Motion animations
+SEO optimized
+Fast loading
+Mobile responsive
+Sticky navigation
+Floating WhatsApp chat button
+Admin dashboard structure ready for future integration
+Extra Premium Features
+Animated countdown to Ethiopian New Year
+Floating flower petals animation
+Music toggle for traditional Ethiopian instrumental background music
+AI-generated event inspiration section
+Interactive timeline for event planning
+Typography
+
+Use elegant modern fonts:
+
+Headings: Playfair Display or Cinzel
+Body: Inter or Poppins
+Visual Direction
+
+The website should visually compete with:
+
+Luxury wedding brands
+Premium Dubai event companies
+Apple-level clean UI
+High-end cinematic landing pages
+
+Focus heavily on:
+
+visual storytelling
+immersive animations
+premium spacing
+elegant typography
+emotionally engaging design
+
+The final result should feel world-class, luxurious, unforgettable, and deeply connected to Ethiopian celebration culture.
