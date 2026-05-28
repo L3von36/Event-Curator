@@ -10,11 +10,11 @@ export default function Footer() {
             <div className="flex items-center gap-3 mb-6">
               <img src={logoPath} alt="Enkutatash Logo" className="h-12 w-auto grayscale brightness-200" />
               <span className="font-serif text-2xl font-bold text-white">
-                Enkutatash Event
+                Enkutatashi
               </span>
             </div>
             <p className="text-white/60 max-w-md mb-8 leading-relaxed">
-              Premium Ethiopian event planning. We craft cinematic, deeply cultural, and undeniably luxurious experiences that honor tradition while setting new standards for elegance.
+              Your trusted partner for unforgettable kids events in Ethiopia.
             </p>
             <div className="flex items-center gap-4">
               <a href="#" className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center hover:bg-primary hover:text-primary-foreground transition-colors">
@@ -43,18 +43,16 @@ export default function Footer() {
           </div>
           
           <div>
-            <h4 className="font-bold text-lg mb-6 font-serif">Legal</h4>
-            <ul className="space-y-4">
-              <li><a href="#" className="text-white/60 hover:text-primary transition-colors">Privacy Policy</a></li>
-              <li><a href="#" className="text-white/60 hover:text-primary transition-colors">Terms of Service</a></li>
-              <li><a href="#" className="text-white/60 hover:text-primary transition-colors">Cancellation Policy</a></li>
-            </ul>
+            <h4 className="font-bold text-lg mb-6 font-serif">Contact Us</h4>
+            <p className="text-white/60">📍 123 Main Street, Bole District, Addis Ababa</p>
+            <p className="text-white/60">📞 +251 123 456 789</p>
+            <p className="text-white/60">✉️ info@enkutatashi.com</p>
           </div>
         </div>
         
         <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-white/40 text-sm">
-            © {new Date().getFullYear()} Enkutatash Event Planning. All rights reserved.
+            © {new Date().getFullYear()} Enkutatashi. All rights reserved.
           </p>
           <p className="text-white/40 text-sm">
             Designed for Excellence.

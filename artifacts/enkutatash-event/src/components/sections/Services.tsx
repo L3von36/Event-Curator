@@ -4,33 +4,23 @@ import { Calendar, GlassWater, Music, UtensilsCrossed, Crown, Sparkles } from "l
 const services = [
   {
     icon: Crown,
-    title: "Luxury Weddings",
-    description: "Breathtaking highland-inspired wedding setups, complete with traditional decor, premium catering, and seamless coordination."
+    title: "Birthday Parties",
+    description: "Unforgettable birthday celebrations with themes, games, entertainment, and more."
   },
   {
     icon: Calendar,
-    title: "Enkutatash Events",
-    description: "Authentic Ethiopian New Year celebrations featuring traditional coffee ceremonies, adey abeba styling, and grand feasts."
-  },
-  {
-    icon: GlassWater,
-    title: "Corporate Galas",
-    description: "Sophisticated corporate events with a touch of modern African luxury, perfect for product launches and networking."
+    title: "School Events",
+    description: "Educational and fun events for schools including sports days, graduations, and special celebrations."
   },
   {
     icon: Sparkles,
-    title: "Birthday Celebrations",
-    description: "Opulent private parties and milestone celebrations tailored to your unique style with rich cultural elements."
+    title: "Holiday Celebrations",
+    description: "Festive holiday events with themed decorations, activities, and entertainment."
   },
   {
     icon: UtensilsCrossed,
-    title: "Premium Catering",
-    description: "High-end presentation of authentic Ethiopian cuisine and international dishes by master chefs."
-  },
-  {
-    icon: Music,
-    title: "Concerts & Entertainment",
-    description: "Curated cultural entertainment, traditional bands, and concert planning for unforgettable experiences."
+    title: "Educational Workshops",
+    description: "Interactive workshops that combine learning and fun for children of all ages."
   }
 ];
 
@@ -64,7 +54,7 @@ export default function Services() {
             viewport={{ once: true }}
             className="text-3xl md:text-5xl font-serif font-bold mb-6 text-card-foreground"
           >
-            Curated Experiences
+            Our Services
           </motion.h2>
           <motion.div 
             initial={{ opacity: 0, scale: 0 }}
@@ -78,7 +68,7 @@ export default function Services() {
             viewport={{ once: true }}
             className="text-muted-foreground text-lg"
           >
-            We transform ordinary spaces into breathtaking cultural masterpieces, blending ancient traditions with modern luxury.
+            We specialize in fun and educational events for children, with each celebration designed to delight families and create lifelong memories.
           </motion.p>
         </div>
 

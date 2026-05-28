@@ -5,29 +5,19 @@ import { useEffect } from "react";
 
 const testimonials = [
   {
-    name: "Selamawit & Dawit",
-    event: "Luxury Wedding",
-    text: "Enkutatash Events transformed our wedding into a cinematic masterpiece. The attention to cultural details and the flawless execution left our guests speechless.",
+    name: "Abebe Kebede",
+    event: "Parent",
+    text: "Enkutatashi organized the most amazing birthday party for my son. The kids had so much fun with all the activities and games. Highly recommended!",
   },
   {
-    name: "Aman Corporate Group",
-    event: "Annual Gala",
-    text: "Professional, sophisticated, and deeply rooted in our heritage. They managed a 500-person corporate gala with effortless elegance.",
+    name: "Sara Haile",
+    event: "School Principal",
+    text: "We hired Enkutatashi for our school's annual event and they exceeded our expectations. Their team was professional, creative, and the children loved every moment.",
   },
   {
-    name: "Hanna T.",
-    event: "Milestone Birthday",
-    text: "I wanted a modern luxury feel with traditional touches for my 40th birthday. The golden ambiance and decor exceeded every expectation.",
-  },
-  {
-    name: "The Ethiopian Heritage Society",
-    event: "Enkutatash Celebration",
-    text: "The authentic coffee ceremony and grand feast setup was breathtaking. They are the premier choice for cultural events.",
-  },
-  {
-    name: "Elias & Meron",
-    event: "Traditional Melse",
-    text: "Our Melse was a dream. The styling, the colors, the lighting—everything was curated perfectly to honor our traditions in pure luxury.",
+    name: "Dawit Mekonnen",
+    event: "Parent",
+    text: "The holiday celebration Enkutatashi organized was spectacular! The decorations, activities, and entertainment were perfect. We will definitely use their services again.",
   }
 ];
 
@@ -52,7 +42,7 @@ export default function Testimonials() {
             viewport={{ once: true }}
             className="text-3xl md:text-5xl font-serif font-bold mb-6 text-foreground"
           >
-            Client Experiences
+            Testimonials
           </motion.h2>
           <motion.div 
             initial={{ opacity: 0, scale: 0 }}

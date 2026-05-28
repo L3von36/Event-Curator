@@ -68,7 +68,7 @@ export default function Hero() {
           transition={{ duration: 0.8, ease: "easeOut" }}
           className="mb-8"
         >
-          <img src={logoPath} alt="Enkutatash Event" className="h-24 md:h-32 w-auto mx-auto drop-shadow-2xl" />
+          <img src={logoPath} alt="Enkutatashi" className="h-24 md:h-32 w-auto mx-auto drop-shadow-2xl" />
         </motion.div>
 
         <motion.h1
@@ -77,7 +77,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
           className="text-4xl md:text-6xl lg:text-7xl font-serif font-bold text-white max-w-5xl leading-tight mb-6"
         >
-          Celebrate Every Moment with <span className="text-primary">Enkutatash Event</span>
+          Enkutatashi
         </motion.h1>
 
         <motion.p
@@ -86,7 +86,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.4, ease: "easeOut" }}
           className="text-lg md:text-2xl text-white/80 max-w-2xl mb-10 font-light"
         >
-          Premium Ethiopian Event Planning & Experiences. Cinematic, rich, unhurried.
+          Creating Unforgettable Experiences for Children. We specialize in organizing fun, educational, and memorable events for kids of all ages.
         </motion.p>
 
         <motion.div
@@ -96,16 +96,16 @@ export default function Hero() {
           className="flex flex-col sm:flex-row gap-4"
         >
           <a
-            href="#booking"
+            href="/contact"
             className="px-8 py-4 bg-primary text-primary-foreground text-lg font-semibold rounded-md hover:bg-primary/90 transition-all hover:scale-105 shadow-[0_0_20px_rgba(245,197,24,0.3)] border border-primary/50"
           >
-            Book an Event
+            Contact Us
           </a>
           <a
-            href="#gallery"
+            href="/events"
             className="px-8 py-4 bg-white/10 text-white backdrop-blur-md border border-white/20 text-lg font-semibold rounded-md hover:bg-white/20 transition-all hover:scale-105"
           >
-            View Gallery
+            View Events
           </a>
         </motion.div>
       </div>
